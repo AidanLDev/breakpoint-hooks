@@ -1,0 +1,23 @@
+{
+  "name": "breakpoint-hooks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "breakpoints"
+  ],
+  "author": "Aidan Lowson <dev@aidanlowson.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^18.2.70",
+    "react": "^18.2.0",
+    "typescript": "^5.4.3"
+  }
+}
